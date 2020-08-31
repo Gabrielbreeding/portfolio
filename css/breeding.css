@@ -1,0 +1,8 @@
+body {
+    /* Within the first week of school I did some digging into linear gradient because it looks cool. 
+    so I added it here and it will flow from the top right in black, to the bottom left in white. 
+    if the colors were switched, it would be significantly harder to read the text.s*/
+    background-image: linear-gradient(to bottom left, black, white);
+    background-repeat: no-repeat;
+    font-family:  Arial, Helvetica, sans-serif
+}
